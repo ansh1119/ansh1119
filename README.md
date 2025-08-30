@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [QuickPick](https://play.google.com/store/apps/details?id=com.users.quickpick2&pcampaignid=web_share)
 
-- 🌱 I’m currently learning **ML technologies and agentic AI**
+- 🌱 I’m currently learning **Jetpack Compose and latest android dev technologies**
 
 - 💬 Ask me about **Jetpack compose, Kotlin coroutines, Kotlin flows etc**
 
